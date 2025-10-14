@@ -1,0 +1,7 @@
+- [x] Edit src/Components/Course/Html.jsx: Add logic to add 'html' to activeCourses if not already active or completed in fetchProgress.
+- [x] Edit src/Components/Course/Javascript.jsx: Add logic to add 'javascript' to activeCourses if not already active or completed in fetchProgress.
+- [x] Edit src/Components/Course/Nodejs.jsx: Add logic to add 'nodejs' to activeCourses if not already active or completed in fetchProgress.
+- [x] Edit src/Components/Course/Express.jsx: Add logic to add 'express' to activeCourses if not already active or completed in fetchProgress.
+- [x] Edit src/Components/Course/Mysql.jsx: Add logic to add 'mysql' to activeCourses if not already active or completed in fetchProgress.
+- [x] Edit src/Components/Course/Javaprog.jsx: Add logic to add 'javaprog' to activeCourses if not already active or completed in fetchProgress.
+- [ ] Test the mark as complete functionality and progress update in profile.
